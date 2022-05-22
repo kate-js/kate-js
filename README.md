@@ -1,6 +1,3 @@
-### Hi there 👋
-
-# Katsiaryna Vakulskaya
 #### Junior Frontend Developer
 ## Contact information:
 * **Address**: Poland, Wroclaw
@@ -14,7 +11,8 @@
 * **Russian** - native speaker.
 * **English** - A2.
 * **Polish** - A1(A2 in process).
-* 
+
+Information will be supplemented...
 <!--
 **kate-js/kate-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
