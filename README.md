@@ -14,10 +14,13 @@
 <h1 align="center">Junior Frontend Developer </h1
   
 ### :woman_technologist: About Me :
-- :telescope: I'm looking for a job as a junior frontend developer.
+  
+ - :bangbang: I'm looking for a job as a junior frontend developer.
 
-- :seedling: I have completed the course The Rolling Scopes School(JavaScript/Front-end 2022).
+ - :seedling: I have completed the course The Rolling Scopes School(JavaScript/Front-end 2022).
 
+ - :computer: Now I'm taking a course React in the The Rolling Scopes School.
+  
 <h2 align="center"> :hammer_and_wrench: Languages and Tools : </h2>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -30,8 +33,9 @@
 
 <h2 align="center"> :telephone: Contact information : </h2>
 
-- :globe_with_meridians: Poland, Wroclaw
+  
+:round_pushpin: Poland, Wroclaw
 
-- :envelope_with_arrow: kate.vakulskaya@gmail.com 
+:envelope_with_arrow: kate.vakulskaya@gmail.com 
 
-- :iphone: Telegram: yukhtik
+:iphone: Telegram: yukhtik
