@@ -14,13 +14,9 @@
 <h1 align="center">Junior Frontend Developer </h1
   
 ### :woman_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I'm looking for a job as a junior frontend developer.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :seedling: I have completed the course The Rolling Scopes School(JavaScript/Front-end 2022).
 
 <h2 align="center"> :hammer_and_wrench: Languages and Tools : </h2>
 <div align="center">
@@ -33,6 +29,9 @@
 </div>
 
 <h2 align="center"> :telephone: Contact information : </h2>
-<div> :globe_with_meridians: Poland, Wroclaw </div> 
-<div> :envelope_with_arrow: kate.vakulskaya@gmail.com </div> 
 
+- :globe_with_meridians: Poland, Wroclaw
+
+- :envelope_with_arrow: kate.vakulskaya@gmail.com 
+
+- :iphone: Telegram: yukhtik
