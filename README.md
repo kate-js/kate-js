@@ -1,4 +1,18 @@
-## Junior Frontend Developer
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/vohOR29F78sGk/giphy.gif" width="200"/>
+</div>
+
+<div align="center">
+  <a href="https://resume.io/r/p7FU0NIDM">
+    <img src="https://img.shields.io/badge/CV-brightgreen?style=for-the-badge" alt="CV"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kate-vakulskaya/">
+    <img src="https://img.shields.io/badge/LinkedIn-brightgreen?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<h1 align="center">Junior Frontend Developer </h1
+  
 ### Contact information:
 * **Address**: Poland, Wroclaw
 * **E-mail**: kate.vakulskaya@gmail.com
