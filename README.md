@@ -13,41 +13,26 @@
 
 <h1 align="center">Junior Frontend Developer </h1
   
-### Contact information:
-* **Address**: Poland, Wroclaw
-* **E-mail**: kate.vakulskaya@gmail.com
+### :woman_technologist: About Me :
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-### Education and courses:
-* Hexlet profile: https://ru.hexlet.io/u/kate_vak/courses
-* HTMLAcademy profile: https://htmlacademy.ru/profile/id850869
-* JavaScript https://learn.javascript.ru/
-* RSSchool(JS / FRONT-END (RU): https://rs.school/
+- :seedling: Exploring Technical Content Writing.
 
-### Skills:
-* HTML5
-* CSS
-* Java Script
-* Type Script
-* React
-* Git
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-### Languages:
-* **Russian** - native speaker.
-* **English** - A2.
-* **Polish** - A1.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
-Please contact me via telegram or email.
-<!--
-**kate-js/kate-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> :hammer_and_wrench: Languages and Tools : </h2>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
-Here are some ideas to get you started:
+<h2 align="center"> :telephone: Contact information : </h2>
+<div> :globe_with_meridians: Poland, Wroclaw </div> 
+<div> :envelope_with_arrow: kate.vakulskaya@gmail.com </div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
