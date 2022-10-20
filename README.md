@@ -2,13 +2,12 @@
 ### Contact information:
 * **Address**: Poland, Wroclaw
 * **E-mail**: kate.vakulskaya@gmail.com
-* **Telegram**: kate_vakul
 
 ### Education and courses:
 * Hexlet profile: https://ru.hexlet.io/u/kate_vak/courses
 * HTMLAcademy profile: https://htmlacademy.ru/profile/id850869
 * JavaScript https://learn.javascript.ru/
-* RSSchool(JS / FRONT-END (RU): Stage0, Stage1, Stage2 - I have certificate): https://rs.school/
+* RSSchool(JS / FRONT-END (RU): https://rs.school/
 
 ### Skills:
 * HTML5
