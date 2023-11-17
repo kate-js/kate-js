@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://goldenrod-flight-f11.notion.site/Katsiaryna-Vakulskaya-479687ea36074b22ad1533c2a461ce8d">
+  <a href="https://www.notion.so/Katsiaryna-Vakulskaya-51fff4b126da4e7d9481049e0f96c1b0?pvs=4">
     <img src="https://img.shields.io/badge/CV-brightgreen?style=for-the-badge" alt="CV"/>
   </a>
   <a href="https://www.linkedin.com/in/kate-vakulskaya/">
