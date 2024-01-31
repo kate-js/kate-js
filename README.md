@@ -17,9 +17,7 @@
   
  - :bangbang: I'm looking for a job as a junior frontend developer.
 
- - :seedling: I have completed the course The Rolling Scopes School(JavaScript/Front-end 2022).
-
- - :computer: Now I'm taking a course React in the The Rolling Scopes School.
+ - :seedling: I have completed the course The Rolling Scopes School(JavaScript/Front-end 2022) and a course React in the The Rolling Scopes School.
   
 <h2 align="center"> :hammer_and_wrench: Languages and Tools : </h2>
 <div align="center">
